@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-student-project",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fs": "0.0.1-security",
+    "validator": "^13.7.0",
+    "yargs": "^17.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
